@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingFormInput", "04.SeleniumWebDriver\HandlingFormInput.csproj", "{4272B02A-0880-4EA3-9BD3-76C78519C997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithWebTables", "WorkingWithWebTables\WorkingWithWebTables.csproj", "{90D44731-F898-4F33-9675-E25298BB9CEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropDownPractice", "DropDownPractice\DropDownPractice.csproj", "{5FDBD4AE-50B2-454D-8486-83BBD3986808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataDrivenTests", "DataDrivenTests\DataDrivenTests.csproj", "{75F50FF9-D236-4231-A60E-D1D2631CF3A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4272B02A-0880-4EA3-9BD3-76C78519C997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4272B02A-0880-4EA3-9BD3-76C78519C997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4272B02A-0880-4EA3-9BD3-76C78519C997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4272B02A-0880-4EA3-9BD3-76C78519C997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D44731-F898-4F33-9675-E25298BB9CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D44731-F898-4F33-9675-E25298BB9CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D44731-F898-4F33-9675-E25298BB9CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D44731-F898-4F33-9675-E25298BB9CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FDBD4AE-50B2-454D-8486-83BBD3986808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FDBD4AE-50B2-454D-8486-83BBD3986808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FDBD4AE-50B2-454D-8486-83BBD3986808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FDBD4AE-50B2-454D-8486-83BBD3986808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F50FF9-D236-4231-A60E-D1D2631CF3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F50FF9-D236-4231-A60E-D1D2631CF3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F50FF9-D236-4231-A60E-D1D2631CF3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F50FF9-D236-4231-A60E-D1D2631CF3A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E89CD2DA-711D-4FFC-A88E-C1AE4C2D5F2C}
+	EndGlobalSection
+EndGlobal
